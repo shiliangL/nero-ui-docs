@@ -1,0 +1,1 @@
+import{R as e}from"./index.4XHecB6P.js";import{o as s,e as o,g as p}from"./naive-ui.DyEX4l5m.js";import"./defu.CAfuikgh.js";import"./plugin-vue_export-helper.BCo6x5W8.js";const i={__name:"pie",setup:i=>(i,r)=>(s(),o(p(e)))};export{i as default};
